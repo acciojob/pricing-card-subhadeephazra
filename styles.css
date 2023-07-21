@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.form{
+    height: 342px;
+    width: 195px;
+    background-color:beige;
+    box-shadow: -2px -2px 10px;
+    text-align: center;
+}
+#image{
+    width: 111px;
+    padding-top: 19px;
+
+}
+
+#button{
+    width:100px;
+	height:40px;
+    background-color: rgb(255, 135, 155);
+    color: white;
+    border-radius: 10px;
+
+}
